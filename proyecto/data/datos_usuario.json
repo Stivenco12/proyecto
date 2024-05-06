@@ -1,0 +1,14 @@
+{
+    "datos_usuario": {
+        "1": {
+            "cedula": 1,
+            "nombre": "1",
+            "apellido": "1",
+            "correo": "1",
+            "celular": 1,
+            "genero": "hombre",
+            "edad": 1,
+            "fechanacimiento": "1"
+        }
+    }
+}
